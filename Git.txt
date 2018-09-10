@@ -22,3 +22,9 @@ Create branch
    
 Checkout Branch
 git checkout Samar-dev
+
+git push  -u origin Samar-dev -f
+
+merge new branch in master branch 
+	git checkout master
+	git merge Samar-dev
