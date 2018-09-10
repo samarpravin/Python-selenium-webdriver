@@ -1,0 +1,24 @@
+Git Commands 
+
+git --version  [Gives you Git version]
+git init       [Initialize your Git]
+git status     [Gives you the status of the GIT ]
+git add /bin or git add * [Add your project]
+git commit -m "samar fraework check in "   [commit your project ]
+
+git remote add origin https://github.com/samarpravin/samar.git  [Add your local project to git cloud]
+
+git push  -u origin master -f
+git log 
+git --help
+
+
+what is branches ?
+
+Create branch 
+   git branch "Branch name"
+   git branch Samar-dev
+
+   
+Checkout Branch
+git checkout Samar-dev
