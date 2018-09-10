@@ -1,0 +1,6 @@
+{
+  "Search_Function_Amazon.py::Search_Function_Amazon::test_Amazon_search": true, 
+  "Search_Function_Amazon.py::test_login_amazon_TC01::test_Amazon_search": true, 
+  "Search_Function_Amazon.py::test_login_amazon_TC01::test_login_functionality": true, 
+  "test_login_amazon_TC01.py::test_login_amazon_TC01::test_search_in_python_org": true
+}

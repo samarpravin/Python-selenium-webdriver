@@ -1,0 +1,4 @@
+[
+  "test_login_amazon_TC01.py::test_login_amazon_TC01::test_Amazon_search", 
+  "test_login_amazon_TC01.py::test_login_amazon_TC01::test_login_functionality"
+]
