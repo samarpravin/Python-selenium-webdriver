@@ -38,6 +38,8 @@ class test_login_amazon_TC01(CommonLibrayDriverCreation,unittest.TestCase,Genric
             print "login is not successfull for the user {}".format(welcometxt)
             raise Exception
 
+        ####samar
+
 
     def test_Amazon_search(self):
         self.test_login_functionality()
