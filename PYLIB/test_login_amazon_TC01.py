@@ -37,10 +37,7 @@ class test_login_amazon_TC01(CommonLibrayDriverCreation,unittest.TestCase,Genric
         else:
             print "login is not successfull for the user {}".format(welcometxt)
             raise Exception
-
-        ####samar
-
-
+        ###samar
     def test_Amazon_search(self):
         self.test_login_functionality()
         self.waitunitilelementfound('//div[@class="nav-search-field "]/label/following-sibling::input[@id="twotabsearchtextbox"]')
