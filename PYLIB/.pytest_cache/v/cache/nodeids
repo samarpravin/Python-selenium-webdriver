@@ -1,4 +1,5 @@
 [
-  "test_login_amazon_TC01.py::test_login_amazon_TC01::test_Amazon_search", 
-  "test_login_amazon_TC01.py::test_login_amazon_TC01::test_login_functionality"
+  "test_Dropdown_TC02.py::Dropdown::test_click_signout", 
+  "test_Dropdown_TC02.py::Dropdown::test_dropdown_landingpage", 
+  "test_Dropdown_TC02.py::Dropdown::test_dropdown_yourorders"
 ]

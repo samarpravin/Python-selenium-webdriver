@@ -1,6 +1,10 @@
 {
+  "Drop_down.py::Drop_down::test_Drop_down": true, 
   "Search_Function_Amazon.py::Search_Function_Amazon::test_Amazon_search": true, 
   "Search_Function_Amazon.py::test_login_amazon_TC01::test_Amazon_search": true, 
   "Search_Function_Amazon.py::test_login_amazon_TC01::test_login_functionality": true, 
+  "test_Dropdown_TC02.py::Dropdown": true, 
+  "test_Dropdown_TC02.py::test_CommonLibraryDriverCreation": true, 
+  "test_login_amazon_TC01.py::test_login_amazon_TC01::test_Amazon_search": true, 
   "test_login_amazon_TC01.py::test_login_amazon_TC01::test_search_in_python_org": true
 }
