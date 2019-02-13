@@ -31,3 +31,15 @@ git push  -u origin Samar-dev -f
 merge new branch in master branch 
 	git checkout master
 	git merge Samar-dev
+	
+	
+	*******************************How to merge samar branch with master branch *************************************************
+	
+	chnages are in samar branch <Current> git checkout samar
+	push the code in samar branch<current>
+	git pull origin master 
+	git checkout master
+	git merge samar
+	git push -u origin master
+	
+	
