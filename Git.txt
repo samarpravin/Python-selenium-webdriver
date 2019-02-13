@@ -17,12 +17,15 @@ what is branches ?
 
 Create branch 
    git branch "Branch name"
+   git branch -a (To list all the branches)
    git branch Samar-dev
 
    
-Checkout Branch
+Checkout Branch(To change the branch)
 git checkout Samar-dev
 
+
+git checkout master(these commands for merging between master and samar branch)
 git push  -u origin Samar-dev -f
 
 merge new branch in master branch 
